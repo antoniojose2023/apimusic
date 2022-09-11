@@ -1,18 +1,18 @@
 {
   "playlist": [
-                { "id": 1,
+                { "id": "1",
                   "categoria": "pop",
                   "url": "https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/pop%2Fpop.png?alt=media&token=8c257364-0273-4b26-99a2-eebd0d85ea28",
                   "musicas": [
                      {
-                       "id": 1, 
+                       "idMusic": "1", 
                        "nome": "Read All Over",
-                       "url_audio": "https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/pop%2FRead%20All%20Over%20-%20Nathan%20Moore.mp3?alt=media&token=37ab98fd-4e21-4034-ac3c-b331f58cf2de"
+                       "url_audio": "https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/pop%2FRead%20All%20Over%20-%20Nathan%20Moore.mp3?alt=media&token=37ab98fd-4e21-4034-ac3c-b331f58cf2de",
                      }, 
                       {
-                       "id": 2, 
+                       "idMusic": "2", 
                        "nome": "Summer Solstice",
-                       "url_audio": "https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/pop%2FSummer%20Solstice%20on%20the%20June%20Planet%20-%20Bail%20Bonds.mp3?alt=media&token=9915e3c0-0ba2-4e5d-a916-b111aa32ed5b"
+                       "url_audio": "https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/pop%2FSummer%20Solstice%20on%20the%20June%20Planet%20-%20Bail%20Bonds.mp3?alt=media&token=9915e3c0-0ba2-4e5d-a916-b111aa32ed5b",
                      }, 
                    ]
                 }
