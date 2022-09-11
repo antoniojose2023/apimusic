@@ -28,6 +28,42 @@
                "url_audio":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/rock%2FThe%20Goon's%20Loose%20-%20Nathan%20Moore.mp3?alt=media&token=e124cd22-3537-4945-b4ef-44248a0e2ab1"
             }
          ]
+      },
+      {
+         "id":"3",
+         "categoria":"jazz",
+         "url":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/jazz%2Fjazz.png?alt=media&token=2fe2d962-a028-4bcb-a1cf-c64c67c46e76",
+         "musicas":[
+            {
+               "idMusic":"1",
+               "nome":"The Moon Drops",
+               "url_audio":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/jazz%2FThe%20Moon%20Drops%20-%20Nathan%20Moore.mp3?alt=media&token=a5e6d659-d5ea-45eb-9609-6637b337ac8b"
+            }
+         ]
+      }, 
+      {
+         "id":"4",
+         "categoria":"eletronica",
+         "url":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/eletronica%2Feletronica.png?alt=media&token=1232e157-4331-40bf-a1b7-214e33f4851f",
+         "musicas":[
+            {
+               "idMusic":"1",
+               "nome":"Swimming Lessons",
+               "url_audio":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/eletronica%2FSwimming%20Lessons%20-%20Bail%20Bonds.mp3?alt=media&token=ea189159-b6a2-4abf-8cb6-80485ca33ac3"
+            }
+         ]
+      }, 
+      {
+         "id":"5",
+         "categoria":"classica",
+         "url":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/classica%2Fclassico.png?alt=media&token=fa73cbfa-307a-406f-92b4-0762eceb29ab",
+         "musicas":[
+            {
+               "idMusic":"1",
+               "nome":"Ceremonial Library",
+               "url_audio":"https://firebasestorage.googleapis.com/v0/b/mathvideos.appspot.com/o/classica%2FCeremonial%20Library%20-%20Asher%20Fulero.mp3?alt=media&token=0521b4c1-ceda-4c27-bbc4-d817ab574d91"
+            }
+         ]
       }
   ]
 }
